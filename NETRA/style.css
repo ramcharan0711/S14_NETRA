@@ -80,6 +80,7 @@ nav a:hover {
     border-radius: 50%;
 }
 #clock {
-    font-size: 13px;
     color: white;
+    margin-left: 10px;
+    font-family: monospace;
 }
